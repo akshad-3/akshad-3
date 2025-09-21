@@ -5,7 +5,7 @@
 - 🌱 I’m currently pursuing IT degree<br/>
 - 👯 I Like to creat web pages,games,designing...<br/>
 - 📫 How to reach me: [instagram] - https://www.instagram.com/akss_xd/<br/>
-                       [Linkedin] - www.linkedin.com/in/akshad-patil-955883365
+  \t\t\t[Linkedin] - www.linkedin.com/in/akshad-patil-955883365
 
 
 ## 🌐 Socials:
