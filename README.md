@@ -46,12 +46,19 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshad-3&layout=compact" />
-<br>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=akshad-3&show_icons=true" />
-<br>
-<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshad-3&" alt="akshad-3" />
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshad-3&layout=compact&theme=tokyonight" />
+
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=akshad-3&show_icons=true&theme=tokyonight" />
+
+  <br><br>
+
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshad-3&theme=tokyonight" />
+  
+</div>
+
 
 </div>
