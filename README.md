@@ -28,23 +28,4 @@
 [![](https://visitcount.itsvg.in/api?id=akshad-3&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-import { calculateRank } from "../../src/calculateRank.js";
-import { it } from "@jest/globals";
-import { runAndLogStats } from "./utils.js";
-
-it("calculateRank", async () => {
-  await runAndLogStats("calculateRank", () => {
-    calculateRank({
-      all_commits: false,
-      commits: 1300,
-      prs: 1500,
-      issues: 4500,
-      reviews: 1000,
-      repos: 0,
-      stars: 600000,
-      followers: 50000,
-    });
-  });
-});
-
 
