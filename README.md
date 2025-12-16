@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 </p>
 <br>
- <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Y0ZTVkeXE4aWZrbHM5ajUwZGp2dXpjNnY1M2h3OG9oYnhpd3J1dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h1N8JV9p3FqgM/giphy.gif" height="250" />  
+ <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Y0ZTVkeXE4aWZrbHM5ajUwZGp2dXpjNnY1M2h3OG9oYnhpd3J1dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h1N8JV9p3FqgM/giphy.gif" height="200" />  
 
 - 🌱 I’m currently learning **DataBase**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45">
 
