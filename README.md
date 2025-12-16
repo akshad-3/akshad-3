@@ -1,17 +1,20 @@
-<h1 align="center">Hi 👋, I'm Akshad Patil</h1>
-<h3 align="center">A passionate 21 year old Frontend developer</h3>
-<br>
-<br\>
+<h1 align="center">Hi 👋, I'm Akshad Patil <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
 
-- 🌱 I’m currently learning **DataBase**
+<h3 align="center">A passionate 21 year old Frontend developer</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+</p>
+<br>
+ <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Y0ZTVkeXE4aWZrbHM5ajUwZGp2dXpjNnY1M2h3OG9oYnhpd3J1dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h1N8JV9p3FqgM/giphy.gif" height="250" />  
+
+- 🌱 I’m currently learning **DataBase**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45">
 
 - 💬 Ask me about **Frontend,Networking**
 
-- 📫 How to reach me **akshadofficial3@gmail.com**
+- 📫 How to reach me **akshadofficial3@gmail.com**<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
 <br> 
-<br\>
 
-### Programing Languages 🌐
+### <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Programing Languages 🌐 
 
 - Know
 
@@ -23,7 +26,7 @@
 | <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" width="24"> | Many More |
 |---|---|---|---|---|---|---|---|---|---|
 
-### Tools 🔨
+### <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> Tools 🔨
 
 - Know
 
