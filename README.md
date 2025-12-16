@@ -27,7 +27,7 @@
 
 - Know
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="24"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sublime/sublime-original.svg" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" width="24"> | WireShark | <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" width="24"> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="24"> | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/sublimetext.svg" width="24" /> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" width="24"> | WireShark | <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" width="24"> |
 |---|---|---|---|---|---|---|---|
 
 - Learning
