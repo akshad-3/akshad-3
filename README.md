@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Akshad Patil <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
 
 <h3 align="center">A passionate 21 year old Frontend developer</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-</p>
-<br>
- <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Y0ZTVkeXE4aWZrbHM5ajUwZGp2dXpjNnY1M2h3OG9oYnhpd3J1dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h1N8JV9p3FqgM/giphy.gif" height="200" />  
 
-- 🌱 I’m currently learning **DataBase**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45">
+<br>
+
+- 🌱 I’m currently learning **DataBase**
 
 - 💬 Ask me about **Frontend,Networking**
 
-- 📫 How to reach me **akshadofficial3@gmail.com**<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
+- 📫 How to reach me **akshadofficial3@gmail.com**
 <br> 
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Programing Languages 🌐 
@@ -45,23 +42,15 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/akshad-patil-95588336" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/akshad-patil-95588336" height="30" width="40" /> &nbsp; </a>
 <a href="https://instagram.com/https://www.instagram.com/akss_xd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/akss_xd/" height="30" width="40" /></a>
 </p>
-
-
+<br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshad-3&theme=onedark" alt="akshad-3" /></a> </p>
 <div align="center">
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshad-3&layout=compact&theme=tokyonight" />
-
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=akshad-3&show_icons=true&theme=tokyonight" />
-
-  <br><br>
-
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshad-3&theme=tokyonight" />
-  
-</div>
-
-
+<a href="https://github.com/akshad-3">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshad-3&theme=onedark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akshad-3&theme=onedark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshad-3&theme=onedark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akshad-3&theme=onedark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshad-3&theme=onedark" height="177em" />
 </div>
