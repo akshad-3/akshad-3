@@ -43,8 +43,9 @@
 <a href="https://instagram.com/https://www.instagram.com/akss_xd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/akss_xd/" height="30" width="40" /></a>
 </p>
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshad-3&theme=onedark" alt="akshad-3" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshad-3&theme=dark" alt="akshad-3" /></a> </p>
 <div align="center">
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=akshad-3&theme=onedark" alt="akshad-3" /></p>
 
 <div align="center">
 <a href="https://github.com/akshad-3">
