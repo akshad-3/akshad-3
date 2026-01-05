@@ -43,15 +43,18 @@
 <a href="https://instagram.com/https://www.instagram.com/akss_xd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/akss_xd/" height="30" width="40" /></a>
 </p>
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshad-3&theme=dark" alt="akshad-3" /></a> </p>
+
+![](https://github-profile-trophy.vercel.app/?username=akshad-3&theme=gotham&no-frame=false&no-bg=false&margin-w=4)
+
 <div align="center">
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=akshad-3&theme=onedark" alt="akshad-3" /></p>
+  
+![](https://nirzak-streak-stats.vercel.app/?user=akshad-3&theme=gotham&hide_border=false)<br/>
 
 <div align="center">
 <a href="https://github.com/akshad-3">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshad-3&theme=onedark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akshad-3&theme=onedark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshad-3&theme=onedark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akshad-3&theme=onedark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshad-3&theme=onedark" height="177em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshad-3&theme=gotham" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akshad-3&theme=gotham" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshad-3&theme=gotham" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akshad-3&theme=gotham" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshad-3&theme=gotham" height="177em" />
 </div>
