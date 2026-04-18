@@ -20,8 +20,8 @@
 
 ### Learning
 
-| <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" width="24"> |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" width="24"> |
+|---|---|---|---|---|---|---|---|---|
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> Tools 🔨
 
