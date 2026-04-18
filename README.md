@@ -28,8 +28,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" width="24"> | 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="24"> | 
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png" width="24"> |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 - Learning
 
 | <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" width="24"> | 
