@@ -39,8 +39,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" width="24"> | 
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" width="24"> | 
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" width="24"> | 
-Many More |
-|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> Tools 🔨
 
